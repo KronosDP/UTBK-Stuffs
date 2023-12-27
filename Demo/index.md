@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -40,6 +39,9 @@
 
   </style>
 </head>
+
+Pelajaran apa nich?
+
 <body>
   <span class="button-container">
     <a href="./PK/" class="button button-pk">PK</a>

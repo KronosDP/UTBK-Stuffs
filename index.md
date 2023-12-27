@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -37,12 +36,15 @@
   </style>
 </head>
 <body>
+
+Pilihlah Demo atau Slide
+
   <span>
     <a href="/Demo" class="button button-demo">Demo</a>
   </span>
 
   <span>
-    <a href="/Slides" class="button button-slides">Slides</a>
+    <a href="/Slides" class="button button-slides">Slide</a>
   </span>
 </body>
 </html>

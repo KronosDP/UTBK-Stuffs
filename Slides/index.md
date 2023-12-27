@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -35,7 +34,10 @@
   </style>
 </head>
 <body>
-  <a href="https://docs.google.com/presentation/d/1w5rPcABFdqo4sjXidPf800NqfgmQw1kqpwyRDvEfcss/edit?usp=sharing" class="button button-pk">PK - Pengukuran dan Geometri (Part 1)</a>
+
+Berikut ini adalah beeberapa link _google slide_ yang digunakan:
+
+<a href="https://docs.google.com/presentation/d/1w5rPcABFdqo4sjXidPf800NqfgmQw1kqpwyRDvEfcss/edit?usp=sharing" class="button button-pk">PK - Pengukuran dan Geometri (Part 1)</a>
 
   <span class="button-container">
     <a href="../" class="button button-back">Back</a>
