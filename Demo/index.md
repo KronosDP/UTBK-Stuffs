@@ -1,8 +1,30 @@
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <style>
+    body {
+      background-color: #f4f4f4; /* Light background color */
+      color: #333; /* Text color */
+      font-family: 'Arial', sans-serif;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+    }
+
+    p {
+      font-size: 24px;
+      margin-bottom: 20px;
+    }
+
+    .button-container {
+      margin-bottom: 10px; /* Adjust as needed */
+    }
+
     .button {
       display: inline-block;
       margin-right: 10px;
@@ -32,24 +54,19 @@
     .button-back:hover {
       background-color: #2980b9;
     }
-
-    .button-container {
-      margin-bottom: 10px; /* Adjust as needed */
-    }
-
   </style>
 </head>
 
 <body>
-
-<p>Pelajaran apa nich?</p>
+  <p>Pelajaran apa nich?</p>
 
   <span class="button-container">
-    <a href="./PK/" class="button button-pk">PK</a>
+    <a href="./PK/" class="button button-pk">Pelajaran Khusus</a>
   </span>
 
   <span class="button-container">
-    <a href="../" class="button button-back">Back</a>
+    <a href="../" class="button button-back">Kembali</a>
   </span>
 </body>
+
 </html>
