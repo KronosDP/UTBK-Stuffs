@@ -1,2 +1,3 @@
-[Pengukuran dan Geometri (Part 1) - Basic](./Pengukuran%20dan%20Geometri%20(Part%201)/basic_stuffs.ipynb)
-[Pengukuran dan Geometri (Part 1) - Advanced](./Pengukuran%20dan%20Geometri%20(Part%201)/advanced_stuffs.ipynb)
+<a href="./Pengukuran%20dan%20Geometri%20(Part%201)/basic_stuffs.ipynb" target="_blank">Pengukuran dan Geometri (Part 1) - Basic</a>
+
+<a href="./Pengukuran%20dan%20Geometri%20(Part%201)/advanced_stuffs.ipynb" target="_blank">Pengukuran dan Geometri (Part 1) - Advanced</a>
