@@ -35,7 +35,7 @@
 </head>
 <body>
 
-Berikut ini adalah beeberapa link _google slide_ yang digunakan:
+<p>Berikut ini adalah beeberapa link _google slide_ yang digunakan:</p>
 
 <a href="https://docs.google.com/presentation/d/1w5rPcABFdqo4sjXidPf800NqfgmQw1kqpwyRDvEfcss/edit?usp=sharing" class="button button-pk">PK - Pengukuran dan Geometri (Part 1)</a>
 

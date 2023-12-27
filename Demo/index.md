@@ -40,9 +40,10 @@
   </style>
 </head>
 
-Pelajaran apa nich?
-
 <body>
+
+<p>Pelajaran apa nich?</p>
+
   <span class="button-container">
     <a href="./PK/" class="button button-pk">PK</a>
   </span>

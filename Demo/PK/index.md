@@ -42,7 +42,7 @@
 </head>
 <body>
 
-Hayo... Materi mana yang mau kamu lihat demonya...
+<p>Hayo... Materi mana yang mau kamu lihat demonya...</p>
 
 <a href="https://github.com/KronosDP/PejuangMasukPTN/blob/master/Demo/PK/Pengukuran%20dan%20Geometri%20(Part%201)/advanced_stuffs.ipynb" target="_blank" class="button button-pk">Pengukuran dan Geometri (Part 1) - Basic</a>
 

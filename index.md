@@ -37,7 +37,7 @@
 </head>
 <body>
 
-Pilihlah Demo atau Slide
+<p>Pilihlah Demo atau Slide</p>
 
   <span>
     <a href="/Demo" class="button button-demo">Demo</a>
