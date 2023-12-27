@@ -10,35 +10,35 @@
       color: #fff;
       font-family: 'Arial', sans-serif;
       margin: 0;
-      padding: 0;
+      padding: 20px; /* Added padding for better spacing */
       display: flex;
       flex-direction: column;
       align-items: center;
       justify-content: center;
       height: 100vh;
-      margin: 10px;
     }
 
     p {
       font-size: 24px;
+      margin-bottom: 20px; /* Added margin for better spacing */
     }
 
     .button-container {
       display: flex;
       flex-direction: row;
       align-items: center;
-      margin-top: 50vh;
       justify-content: space-between;
+      margin-top: 20px; /* Adjusted margin for better spacing */
     }
 
-    .button-center{
+    .button-center {
+      margin-top: 20px; /* Adjusted margin for better spacing */
       display: flex;
       align-items: center;
       justify-content: center;
     }
 
     .button {
-      margin-top: 10px;
       padding: 10px 20px;
       color: #fff;
       text-decoration: none;
@@ -66,8 +66,8 @@
       background-color: #2575a9;
     }
 
-    .button-personal-blog{
-      background-color: #89CFF0
+    .button-personal-blog {
+      background-color: #89CFF0;
     }
 
     .button-personal-blog:hover {
@@ -100,7 +100,7 @@
 
     @media (max-width: 600px) {
       body {
-        padding: 20px;
+        padding: 10px; /* Adjusted padding for better spacing on small screens */
       }
 
       .button-container {
@@ -114,6 +114,7 @@
 
   </style>
 </head>
+
 <body>
   <p>Pilihlah Demo atau Slide</p>
 
@@ -121,6 +122,7 @@
     <a href="./Demo" class="button button-demo">Demo</a>
     <a href="./Slides" class="button button-slides">Slide</a>
   </div>
+
   <div class="button-center">
     <a href="https://kronosdp.github.io/" target="_blank" class="button button-personal-blog">Personal Blog</a>
   </div>
@@ -143,7 +145,6 @@
         <use xlink:href="#linkedin-icon"/>
       </svg>
     </a>
-
   </div>
 </body>
 
