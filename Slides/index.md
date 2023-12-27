@@ -1,0 +1,1 @@
+[PK - Pengukuran dan Geometri (Part 1)](https://docs.google.com/presentation/d/1w5rPcABFdqo4sjXidPf800NqfgmQw1kqpwyRDvEfcss/edit?usp=sharing)
