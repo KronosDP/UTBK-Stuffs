@@ -27,9 +27,10 @@
       display: flex;
       flex-direction: row;
       align-items: center;
-      justify-content: space-between;
-      margin-top: 20px; /* Adjusted margin for better spacing */
+      justify-content: space-around; /* Adjusted to space-around for closer horizontal spacing */
+      margin-top: 20px;
     }
+
 
     .button-center {
       margin-top: 20px; /* Adjusted margin for better spacing */
