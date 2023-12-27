@@ -27,9 +27,10 @@
       display: flex;
       flex-direction: row;
       align-items: center;
-      justify-content: space-around; /* Adjusted to space-around for closer horizontal spacing */
+      justify-content: space-evenly; /* Adjusted to space-evenly for closer horizontal spacing */
       margin-top: 20px;
     }
+
 
 
     .button-center {
