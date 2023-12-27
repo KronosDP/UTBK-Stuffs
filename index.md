@@ -1,16 +1,40 @@
 <style>
-  /* Add the following CSS styles for hover effect and animation */
-  a:hover {
-    background-color: #2ecc71; /* Change the color on hover */
-    transform: scale(1.1); /* Add a scale animation on hover */
-    transition: background-color 0.3s ease, transform 0.3s ease; /* Add a smooth transition for both properties */
+  .button {
+    display: inline-block;
+    margin-right: 10px;
+    padding: 10px 20px;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease, transform 0.3s ease;
   }
+
+  .button:hover {
+    transform: scale(1.1);
+  }
+
+  .button-demo {
+    background-color: #4CAF50;
+  }
+
+  .button-demo:hover {
+    background-color: #2ecc71;
+  }
+
+  .button-slides {
+    background-color: #3498db;
+  }
+
+  .button-slides:hover {
+    background-color: #2980b9;
+  }
+
 </style>
 
-<span style="display: inline-block; margin-right: 10px;">
-  <a href="./Demo" style="padding: 10px 20px; background-color: #4CAF50; color: #fff; text-decoration: none; border-radius: 5px;">Demo</a>
+<span>
+  <a href="./Demo" class="button button-demo">Demo</a>
 </span>
 
-<span style="display: inline-block;">
-  <a href="./Slides" style="padding: 10px 20px; background-color: #3498db; color: #fff; text-decoration: none; border-radius: 5px;">Slides</a>
+<span>
+  <a href="./Slides" class="button button-slides">Slides</a>
 </span>
