@@ -3,6 +3,19 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <style>
+    body {
+      background-color: #1a1a1a;
+      color: #fff;
+      font-family: "Arial", sans-serif;
+      margin: 0;
+      padding: 20px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+    }
+
     .button {
       display: block;
       margin-top: 10px;
@@ -35,12 +48,13 @@
 </head>
 <body>
 
-<p>Berikut ini adalah beeberapa link _google slide_ yang digunakan:</p>
+<p>Berikut ini adalah beberapa link _google slide_ yang digunakan:</p>
 
 <a href="https://docs.google.com/presentation/d/1w5rPcABFdqo4sjXidPf800NqfgmQw1kqpwyRDvEfcss/edit?usp=sharing" class="button button-pk">PK - Pengukuran dan Geometri (Part 1)</a>
 
-  <span class="button-container">
-    <a href="../" class="button button-back">Back</a>
-  </span>
+<span class="button-container">
+  <a href="../" class="button button-back">Back</a>
+</span>
+
 </body>
 </html>
