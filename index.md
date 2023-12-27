@@ -1,8 +1,25 @@
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <style>
+    body {
+      background-color: #1a1a1a; /* Dark background color */
+      color: #fff; /* Text color */
+      font-family: 'Arial', sans-serif;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+    }
+
+    p {
+      font-size: 24px;
+    }
+
     .button {
       display: inline-block;
       margin-right: 10px;
@@ -35,16 +52,17 @@
 
   </style>
 </head>
-<body>
 
-<p>Pilihlah Demo atau Slide</p>
+<body>
+  <p>Pilihlah Demo atau Slide</p>
 
   <span>
-    <a href="/Demo" class="button button-demo">Demo</a>
+    <a href="./Demo" class="button button-demo">Demo</a>
   </span>
 
   <span>
-    <a href="/Slides" class="button button-slides">Slide</a>
+    <a href="./Slides" class="button button-slides">Slide</a>
   </span>
 </body>
+
 </html>
