@@ -33,6 +33,7 @@ p {
 
 .button {
   padding: 10px 20px;
+  margin: 0px 10px;
   color: #fff;
   text-decoration: none;
   border-radius: 5px;
@@ -69,125 +70,18 @@ p {
 
 .logo-container {
   display: flex;
-  justify-content: space-around;
+  justify-content: center; /* Adjusted to center the items */
   width: 100%;
-  margin-top: 20px;
+  margin-top: 10px; /* Reduced margin */
   flex-wrap: wrap;
 }
 
 .icon {
-  width: 50px;
+  width: 40px; /* Adjusted icon size */
   height: auto;
   cursor: pointer;
   transition: transform 0.3s ease;
-  margin: 10px;
-}
-
-.icon:hover {
-  transform: scale(1.2);
-}
-
-.icon-fill {
-  fill: #0f0f0f;
-}
-
-@media (max-width: 600px) {
-  body {
-    padding: 10px;
-  }
-
-  .button-container {
-    flex-direction: column;
-  }
-
-  .icon {
-    width: 30px;
-  }
-
-  .button {
-    width: 100%;body {
-  background-color: #1a1a1a;
-  color: #fff;
-  font-family: "Arial", sans-serif;
-  margin: 0;
-  padding: 20px;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  height: 100vh;
-}
-
-p {
-  font-size: 24px;
-  margin-bottom: 20px;
-}
-
-.button-container {
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  justify-content: space-evenly;
-  margin-top: 20px;
-}
-
-.button-center {
-  margin-top: 20px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
-.button {
-  padding: 10px 20px;
-  color: #fff;
-  text-decoration: none;
-  border-radius: 5px;
-  transition: background-color 0.3s ease, transform 0.3s ease;
-}
-
-.button:hover {
-  transform: scale(1.1);
-}
-
-.button-demo {
-  background-color: #2ecc71;
-}
-
-.button-demo:hover {
-  background-color: #27ae60;
-}
-
-.button-slides {
-  background-color: #2980b9;
-}
-
-.button-slides:hover {
-  background-color: #2575a9;
-}
-
-.button-personal-blog {
-  background-color: #89cff0;
-}
-
-.button-personal-blog:hover {
-  background-color: #77c3ec;
-}
-
-.logo-container {
-  display: flex;
-  justify-content: space-around;
-  width: 100%;
-  margin-top: 20px;
-  flex-wrap: wrap;
-}
-
-.icon {
-  width: 50px;
-  height: auto;
-  cursor: pointer;
-  transition: transform 0.3s ease;
-  margin: 10px;
+  margin: 5px; /* Reduced margin */
 }
 
 .icon:hover {
@@ -213,9 +107,117 @@ p {
 
   .button {
     width: 100%;
-    margin-top: 10px;
-  }
-}
+    body {
+      background-color: #1a1a1a;
+      color: #fff;
+      font-family: "Arial", sans-serif;
+      margin: 0;
+      padding: 20px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+    }
+
+    p {
+      font-size: 24px;
+      margin-bottom: 20px;
+    }
+
+    .button-container {
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      justify-content: space-evenly;
+      margin-top: 20px;
+    }
+
+    .button-center {
+      margin-top: 20px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .button {
+      padding: 10px 20px;
+      color: #fff;
+      text-decoration: none;
+      border-radius: 5px;
+      transition: background-color 0.3s ease, transform 0.3s ease;
+    }
+
+    .button:hover {
+      transform: scale(1.1);
+    }
+
+    .button-demo {
+      background-color: #2ecc71;
+    }
+
+    .button-demo:hover {
+      background-color: #27ae60;
+    }
+
+    .button-slides {
+      background-color: #2980b9;
+    }
+
+    .button-slides:hover {
+      background-color: #2575a9;
+    }
+
+    .button-personal-blog {
+      background-color: #89cff0;
+    }
+
+    .button-personal-blog:hover {
+      background-color: #77c3ec;
+    }
+
+    .logo-container {
+      display: flex;
+      justify-content: space-around;
+      width: 100%;
+      margin-top: 20px;
+      flex-wrap: wrap;
+    }
+
+    .icon {
+      width: 50px;
+      height: auto;
+      cursor: pointer;
+      transition: transform 0.3s ease;
+      margin: 10px;
+    }
+
+    .icon:hover {
+      transform: scale(1.2);
+    }
+
+    .icon-fill {
+      fill: #0f0f0f;
+    }
+
+    @media (max-width: 600px) {
+      body {
+        padding: 10px;
+      }
+
+      .button-container {
+        flex-direction: column;
+      }
+
+      .icon {
+        width: 30px;
+      }
+
+      .button {
+        width: 100%;
+        margin-top: 10px;
+      }
+    }
 
     margin-top: 10px;
   }
