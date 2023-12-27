@@ -5,8 +5,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <style>
     body {
-      background-color: #f4f4f4; /* Light background color */
-      color: #333; /* Text color */
+      background-color: #333; /* Dark background color */
+      color: #fff; /* Light text color */
       font-family: 'Arial', sans-serif;
       margin: 0;
       padding: 0;
@@ -61,7 +61,7 @@
   <p>Pelajaran apa nich?</p>
 
   <span class="button-container">
-    <a href="./PK/" class="button button-pk">Pelajaran Khusus</a>
+    <a href="./PK/" class="button button-pk">Penalaran Kuantitatif</a>
   </span>
 
   <span class="button-container">

@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -5,8 +6,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <style>
     body {
-      background-color: #ecf0f1; /* Light background color */
-      color: #333; /* Text color */
+      background-color: #2c3e50; /* Dark background color */
+      color: #fff; /* Light text color */
       font-family: 'Arial', sans-serif;
       margin: 0;
       padding: 0;
@@ -57,15 +58,16 @@
     .button-back:hover {
       background-color: #c0392b;
     }
+
   </style>
 </head>
 <body>
 
   <p>Hayo... Materi mana yang mau kamu lihat demonya...</p>
 
-  <a href="https://github.com/KronosDP/PejuangMasukPTN/blob/master/Demo/PK/Pengukuran%20dan%20Geometri%20(Part%201)/advanced_stuffs.ipynb" target="_blank" class="button button-pk">Pengukuran dan Geometri (Part 1) - Basic</a>
+<a href="https://github.com/KronosDP/PejuangMasukPTN/blob/master/Demo/PK/Pengukuran%20dan%20Geometri%20(Part%201)/advanced_stuffs.ipynb" target="_blank" class="button button-pk">Pengukuran dan Geometri (Part 1) - Basic</a>
 
-  <a href="https://github.com/KronosDP/PejuangMasukPTN/blob/master/Demo/PK/Pengukuran%20dan%20Geometri%20(Part%201)/basic_stuffs.ipynb" target="_blank" class="button button-pk">Pengukuran dan Geometri (Part 1) - Advanced</a>
+<a href="https://github.com/KronosDP/PejuangMasukPTN/blob/master/Demo/PK/Pengukuran%20dan%20Geometri%20(Part%201)/basic_stuffs.ipynb" target="_blank" class="button button-pk">Pengukuran dan Geometri (Part 1) - Advanced</a>
 
   <span class="button-container">
     <a href="../" class="button button-back">Kembali</a>
