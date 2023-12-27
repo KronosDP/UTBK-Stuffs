@@ -16,6 +16,7 @@
       align-items: center;
       justify-content: center;
       height: 100vh;
+      margin: 10px;
     }
 
     p {
@@ -26,8 +27,14 @@
       display: flex;
       flex-direction: row;
       align-items: center;
-      margin-top: 10px;
+      margin-top: 50vh;
       justify-content: space-between;
+    }
+
+    .button-center{
+      display: flex;
+      align-items: center;
+      justify-content: center;
     }
 
     .button {
@@ -114,7 +121,7 @@
     <a href="./Demo" class="button button-demo">Demo</a>
     <a href="./Slides" class="button button-slides">Slide</a>
   </div>
-  <div class="button-container">
+  <div class="button-center">
     <a href="https://kronosdp.github.io/" target="_blank" class="button button-personal-blog">Personal Blog</a>
   </div>
 
