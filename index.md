@@ -59,6 +59,14 @@
       background-color: #2575a9;
     }
 
+    .button-personal-blog{
+      background-color: #89CFF0
+    }
+
+    .button-personal-blog:hover {
+      background-color: #77C3EC;
+    }
+
     .logo-container {
       display: flex;
       justify-content: space-around;
@@ -105,7 +113,7 @@
   <div class="button-container">
     <a href="./Demo" class="button button-demo">Demo</a>
     <a href="./Slides" class="button button-slides">Slide</a>
-     <a href="https://kronosdp.github.io/" target="_blank" class="button">Personal Blog</a>
+    <a href="https://kronosdp.github.io/" target="_blank" class="button button-personal-blog">Personal Blog</a>
   </div>
 
   <div class="logo-container">
