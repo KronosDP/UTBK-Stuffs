@@ -69,7 +69,7 @@
 
   <a href="https://github.com/KronosDP/PejuangMasukPTN/blob/master/Demo/PK/Pengukuran%20dan%20Geometri%20(Part%201)/basic_stuffs.ipynb" target="_blank" class="button button-pk">Pengukuran dan Geometri (Part 1) - Advanced</a>
 
-  <a href="./Pengukuran dan Geometri (Part 1)/central_and_circumferential.html" target="_blank">Lingkaran - Demo</a>
+  <a href="./Pengukuran dan Geometri (Part 1)/central_and_circumferential.html" target="_blank" class="button button-pk">Lingkaran - Demo</a>
 
   <span class="button-container">
     <a href="../" class="button button-back">Kembali</a>
