@@ -1,1 +1,2 @@
-[Pengukuran dan Geometri (Part 1)](./Pengukuran%20dan%20Geometri%20(Part%201)/)
+[Pengukuran dan Geometri (Part 1) - Basic](./Pengukuran%20dan%20Geometri%20(Part%201)/basic_stuffs.ipynb)
+[Pengukuran dan Geometri (Part 1) - Advanced](./Pengukuran%20dan%20Geometri%20(Part%201)/advanced_stuffs.ipynb)
