@@ -24,7 +24,7 @@
 
     .button-container {
       display: flex;
-      flex-direction: column;
+      flex-direction: row;
       align-items: center;
       margin-top: 10px;
       justify-content: space-between;
@@ -113,6 +113,8 @@
   <div class="button-container">
     <a href="./Demo" class="button button-demo">Demo</a>
     <a href="./Slides" class="button button-slides">Slide</a>
+  </div>
+  <div class="button-container">
     <a href="https://kronosdp.github.io/" target="_blank" class="button button-personal-blog">Personal Blog</a>
   </div>
 
