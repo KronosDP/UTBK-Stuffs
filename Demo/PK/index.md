@@ -71,6 +71,8 @@
 
 <a href="./Pengukuran dan Geometri (Part 1)/central_and_circumferential.html" target="_blank" class="button button-pk">Lingkaran - Demo</a>
 
+<a href="./Pengukuran dan Geometri (Part 1)/desmos.html" target="_blank" class="button button-pk">Desmos Segitiga - Demo</a>
+
   <span class="button-container">
     <a href="../" class="button button-back">Kembali</a>
   </span>
